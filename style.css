@@ -1,3 +1,6 @@
 .cool-background {
 	background-image: url("/images/dog_park.jpg");
-}
+	background-size: cover;
+    background-repeat: no-repeat;
+    padding: 19rem;
+    color: white; }
